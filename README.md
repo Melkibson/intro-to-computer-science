@@ -1,2 +1,2 @@
-# intro-to-computer-science
+# algorithms-exercises
 Created with CodeSandbox
